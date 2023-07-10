@@ -1,0 +1,28 @@
+									
+									Created by Sudhanshu Ranjan
+								-------------------------------------------
+
+Sesssion-1
+===========
+HTTP Long  Poling, Peer to peer communication.
+> Basic understanding, examples of restaurant
+> Requesting a server and be in queue ~ polling
+> polling opens the server 
+> Websockets for dev. for peer to peer comm.
+> how do you handle error and timeouts in http polling common tech for retrying failed req
+
+Session-2
+===========
+> Faraaz.
+> College Journey.
+> Read LetUsC.
+> Have a group in DSA.
+
+Session-3
+===========
+> Difference in companies.
+> Highest packages in India.
+> 
+
+> 5ire chain uses sustainable proof of stake (sps).
+
